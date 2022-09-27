@@ -1,4 +1,6 @@
 node_modules/
+lib/
+__tests__/_temp/
 
 # Editors
 .vscode/
@@ -65,3 +67,5 @@ typings/
 
 # next.js build output
 .next
+
+.DS_Store

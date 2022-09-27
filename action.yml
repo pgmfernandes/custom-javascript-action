@@ -1,5 +1,5 @@
-name: 'Wait'
-description: 'Wait a designated number of milliseconds'
+name: 'nuclei-scan'
+description: 'Execute nuclei template based on a config file'
 inputs:
   milliseconds:  # id of input
     description: 'number of milliseconds to wait'
